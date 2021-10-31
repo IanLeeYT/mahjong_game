@@ -1,0 +1,6 @@
+B _build
+PKG ounit2
+PKG ANSITerminal
+PKG js_of_ocaml 
+PKG js_of_ocaml-ppx
+PKG js_of_ocaml-ocamlbuild
