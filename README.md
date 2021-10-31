@@ -1,2 +1,2 @@
-# final_project
-mahjong game in OCaml. Run in command line shell.
+# Single Player Mahjong Game
+mahjong game written in the functional programming language OCaml. Runs in command line shell.
